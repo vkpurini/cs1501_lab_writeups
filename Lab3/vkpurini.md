@@ -46,4 +46,4 @@ Where `n` is the number of folders. Sorting the array dominates the runtime at O
 
 **Space complexity: O(n)**
 
-The `result` list holds up to `n` folder paths in the worst case, when no folder is a sub-folder of another. Sorting may also use auxiliary space depending on the underlying sort implementation (Java's `Arrays.sort` uses a comparison-based sort with O(log n) to O(n) auxiliary space for object arrays), but overall the space used is O(n).
+The `result` list holds up to `n` folder paths in the worst case, when no folder is a sub-folder of another.
