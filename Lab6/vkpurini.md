@@ -1,4 +1,4 @@
-# Lab 5 Writeup
+# Lab 6 Writeup
 
 **Author:** Vivek Purini
 
